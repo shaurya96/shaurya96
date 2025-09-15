@@ -10,7 +10,7 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 ## 🔐 About Me  
 - 🎓 Master’s in **Cybersecurity** (UNC Charlotte, GPA: 4.0)  
 - 💼 Experience: **SOC Analyst (TA) | Security Analyst Intern | Cloud Security Analyst | Cybersecurity Analyst**  
-- 🛠️ Skilled with: Splunk, Sumo Logic, QRadar, ELK, Wazuh, CrowdStrike, SentinelOne, Cortex XDR  
+- 🛠️ Skilled with: Splunk, Sysmon, Atomic Red Team, Wazuh, ELK, CrowdStrike, SentinelOne, LimaCharlie, Tines, Shuffle SOAR, Slack  
 - ☁️ Cloud: AWS (SAA-C03, CLF-C02), Azure, GCP  
 - 📚 Certifications: Security+, AWS Certified, CCNA, Fortinet NSE, TCM Practical SOC Analyst, TryHackMe SOC Level 1  
 
@@ -20,6 +20,10 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 
 🔹 [🔑 Password Cracker](https://github.com/shaurya96/Password-cracker) – SHA-1 hash cracking with Python & Hashcat.  
 🔹 [🌐 DDoS Attack Implementation](https://github.com/shaurya96/DDoS_Attack_Implementation) – Simulated TCP SYN & HTTP flood attacks.  
+🔹 [🏠 Basic SOC Home Lab](https://github.com/yourusername/home-lab) – VirtualBox lab with Windows + Kali, Splunk & Sysmon for telemetry and detection practice.  
+🔹 [🗂️ Active Directory Home Lab](https://github.com/yourusername/active-directory-lab) – AD + Splunk + Sysmon lab with brute force & Atomic Red Team attack simulations.  
+🔹 [🖥️ Active Directory 2.0 Lab](https://github.com/yourusername/ad-lab-2) – Splunk-integrated AD lab with automated RDP login detection & SOAR response (Slack + Shuffle).  
+🔹 [⚡ SOAR + EDR Project](https://github.com/yourusername/soar-edr) – End-to-end SOC workflow: LimaCharlie detections → Tines SOAR → Slack/Email alerts → automated host isolation.  
 
 ---
 
@@ -27,16 +31,22 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 
 **SIEM & SOC Tools:**  
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)  
-![QRadar](https://img.shields.io/badge/-IBM%20QRadar-052FAD?logo=ibm&logoColor=white)  
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005C97?logo=wazuh&logoColor=white)  
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)  
-![Sumo Logic](https://img.shields.io/badge/-Sumo%20Logic-0000FF?logo=sumologic&logoColor=white)  
+![Sysmon](https://img.shields.io/badge/-Sysmon-808080?logo=windows&logoColor=white)  
+![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-FF5733?logo=attack&logoColor=white)  
 
 **Endpoint & Detection:**  
 ![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-FF0000?logo=crowdstrike&logoColor=white)  
 ![SentinelOne](https://img.shields.io/badge/-SentinelOne-4C4CFF?logo=sentinelone&logoColor=white)  
-![Zeek](https://img.shields.io/badge/-Zeek-000000?logo=zeek&logoColor=white)  
+![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-1D3557?logoColor=white)  
 ![Snort](https://img.shields.io/badge/-Snort-FF69B4?logo=snort&logoColor=white)  
+![Zeek](https://img.shields.io/badge/-Zeek-000000?logo=zeek&logoColor=white)  
+
+**SOAR & Automation:**  
+![Shuffle](https://img.shields.io/badge/-Shuffle%20SOAR-FF8C00?logoColor=white)  
+![Tines](https://img.shields.io/badge/-Tines-0066CC?logoColor=white)  
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)  
 
 **Scripting & Automation:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
