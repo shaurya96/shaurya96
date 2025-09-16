@@ -10,7 +10,7 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 ## 🔐 About Me  
 - 🎓 Master’s in **Cybersecurity** (UNC Charlotte, GPA: 4.0)  
 - 💼 Experience: **SOC Analyst (TA) | Security Analyst Intern | Cloud Security Analyst | Cybersecurity Analyst**  
-- 🛠️ Skilled with: Splunk, Sysmon, Atomic Red Team, Wazuh, ELK, CrowdStrike, SentinelOne, LimaCharlie, Tines, Shuffle SOAR, Slack  
+- 🛠️ Skilled with: Splunk, Sysmon, Atomic Red Team, Wazuh, ELK, Filebeat, TheHive, CrowdStrike, SentinelOne, LimaCharlie, Tines, Shuffle SOAR, Slack, VirusTotal API  
 - ☁️ Cloud: AWS (SAA-C03, CLF-C02), Azure, GCP  
 - 📚 Certifications: Security+, AWS Certified, CCNA, Fortinet NSE, TCM Practical SOC Analyst, TryHackMe SOC Level 1  
 
@@ -24,6 +24,7 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 🔹 [🗂️ Active Directory Home Lab](https://github.com/yourusername/active-directory-lab) – AD + Splunk + Sysmon lab with brute force & Atomic Red Team attack simulations.  
 🔹 [🖥️ Active Directory 2.0 Lab](https://github.com/yourusername/ad-lab-2) – Splunk-integrated AD lab with automated RDP login detection & SOAR response (Slack + Shuffle).  
 🔹 [⚡ SOAR + EDR Project](https://github.com/yourusername/soar-edr) – End-to-end SOC workflow: LimaCharlie detections → Tines SOAR → Slack/Email alerts → automated host isolation.  
+🔹 [🤖 SOC Automation Project](https://github.com/yourusername/soc-automation) – Reproducible SOC lab & automation: VirtualBox Windows 11 + Sysmon → Wazuh manager + Filebeat → TheHive case creation → Shuffle automation (webhook, VirusTotal enrichment, email notifications).  
 
 ---
 
@@ -34,7 +35,7 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 ![Wazuh](https://img.shields.io/badge/-Wazuh-005C97?logo=wazuh&logoColor=white)  
 ![ELK](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)  
 ![Sysmon](https://img.shields.io/badge/-Sysmon-808080?logo=windows&logoColor=white)  
-![Atomic Red Team](https://img.shields.io/badge/-Atomic%20Red%20Team-FF5733?logo=attack&logoColor=white)  
+![Filebeat](https://img.shields.io/badge/-Filebeat-005571?logo=elastic&logoColor=white)  
 
 **Endpoint & Detection:**  
 ![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-FF0000?logo=crowdstrike&logoColor=white)  
@@ -47,6 +48,8 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 ![Shuffle](https://img.shields.io/badge/-Shuffle%20SOAR-FF8C00?logoColor=white)  
 ![Tines](https://img.shields.io/badge/-Tines-0066CC?logoColor=white)  
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)  
+![TheHive](https://img.shields.io/badge/-TheHive-FFD700?logoColor=black)  
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?logoColor=white)  
 
 **Scripting & Automation:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
