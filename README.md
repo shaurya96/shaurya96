@@ -20,7 +20,7 @@ With 3+ years of hands-on experience in **SIEM tuning, cloud log analysis, and S
 
 🔹 [🔑 Password Cracker](https://github.com/shaurya96/Password-cracker) – SHA-1 hash cracking with Python & Hashcat.  
 🔹 [🌐 DDoS Attack Implementation](https://github.com/shaurya96/DDoS_Attack_Implementation) – Simulated TCP SYN & HTTP flood attacks.  
-🔹 [🏠 Basic SOC Home Lab](https://github.com/yourusername/home-lab) – VirtualBox lab with Windows + Kali, Splunk & Sysmon for telemetry and detection practice.  
+🔹 [🏠 Basic SOC Home Lab](https://github.com/shaurya96/Basic-Home-Lab) – VirtualBox lab with Windows + Kali, Splunk & Sysmon for telemetry and detection practice.  
 🔹 [🗂️ Active Directory Home Lab](https://github.com/yourusername/active-directory-lab) – AD + Splunk + Sysmon lab with brute force & Atomic Red Team attack simulations.  
 🔹 [🖥️ Active Directory 2.0 Lab](https://github.com/yourusername/ad-lab-2) – Splunk-integrated AD lab with automated RDP login detection & SOAR response (Slack + Shuffle).  
 🔹 [⚡ SOAR + EDR Project](https://github.com/yourusername/soar-edr) – End-to-end SOC workflow: LimaCharlie detections → Tines SOAR → Slack/Email alerts → automated host isolation.  
